@@ -1,0 +1,2 @@
+"Hello i am trying to Git commands"
+
